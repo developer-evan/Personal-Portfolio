@@ -310,6 +310,12 @@ cursor: pointer;
 height: 40px;
 font-size: 1em;
 }
+.social_media_icons{
+text-decoration:none;
+  color:#fff;
+  width:50px;
+  height:50px;
+}
 @media (max-width: 1250px){
 .main img{ width: 25em; right: 0; }
 }
