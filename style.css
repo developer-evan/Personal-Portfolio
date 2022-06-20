@@ -110,6 +110,10 @@ right: 50px;
 z-index: -1;
 
 }
+
+#file{
+  text-decoration:none;
+}
 /* about */
 .about{
 width: 100%;
