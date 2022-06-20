@@ -315,9 +315,9 @@ text-decoration:none;
 }
 .social_media_icons a{
   color:#fff;
-  width:80px;
-  height:80px;
-  padding:3px;
+  width:100px;
+  height:100px;
+  padding:8px;
 }
 @media (max-width: 1250px){
 .main img{ width: 25em; right: 0; }
